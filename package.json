@@ -1,0 +1,19 @@
+{
+  "name": "avaliacao-matheus",
+  "version": "1.0.0",
+  "description": "testes enviados pelo luiz para avaliar conhecimento do matheus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MVIEIRAB/avaliation.git"
+  },
+  "author": "matheus vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MVIEIRAB/avaliation/issues"
+  },
+  "homepage": "https://github.com/MVIEIRAB/avaliation#readme"
+}
