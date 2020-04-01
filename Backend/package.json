@@ -1,0 +1,25 @@
+{
+  "name": "avaliacao-matheus",
+  "version": "1.0.0",
+  "description": "testes enviados pelo luiz para avaliar conhecimento do matheus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MVIEIRAB/avaliation.git"
+  },
+  "author": "matheus vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MVIEIRAB/avaliation/issues"
+  },
+  "homepage": "https://github.com/MVIEIRAB/avaliation#readme",
+  "dependencies": {
+    "bcrypt": "4.0.1",
+    "express": "4.17.1",
+    "jsonwebtoken": "8.5.1"
+  }
+}
