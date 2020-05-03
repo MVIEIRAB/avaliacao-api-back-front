@@ -5,7 +5,7 @@ const Product = require('../models/product.js')
 const router = express.Router()
 
 router.post('/create', async (req, res) => {
-    const { sku, product, category } = req.body
+    const product = req.body
 
     try {
         if (await Product.findOne({ product }))

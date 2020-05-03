@@ -1,0 +1,118 @@
+[33mcommit 89ce0d9baedc16597843b236ce6475ef09cf00fa[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: mvieirinhaa@gmail.com <57693776+MVIEIRAB@users.noreply.github.com>
+Date:   Sun May 3 03:48:35 2020 -0300
+
+    retirando node_modules xD
+
+[33mcommit 339300fa5b312d9dc02c36940eba854a2fab6814[m
+Author: mvieirinhaa@gmail.com <57693776+MVIEIRAB@users.noreply.github.com>
+Date:   Sun May 3 03:44:55 2020 -0300
+
+    organizando a pasta do projeto
+
+[33mcommit 8413b07ae4e16b5a86109e2b328d400ea1ef3c77[m
+Author: unknown <mvieirinhaa@gmail.com>
+Date:   Mon Apr 6 01:04:09 2020 -0300
+
+    configurando para o uso do frontend
+
+[33mcommit be162771e7f8437857867eeb910548efa719ee28[m
+Author: unknown <mvieirinhaa@gmail.com>
+Date:   Mon Apr 6 01:03:02 2020 -0300
+
+    configurando backend com o frontend
+
+[33mcommit 6da5ce4d93431d433f8b62d63df0251deaddcc4c[m
+Author: unknown <mvieirinhaa@gmail.com>
+Date:   Wed Apr 1 20:55:15 2020 -0300
+
+    padronizando a estrutura da aplicação
+
+[33mcommit 4547f73576fab1abaf9535d6642cfeb35079c02b[m
+Author: unknown <mvieirinhaa@gmail.com>
+Date:   Tue Mar 31 16:41:54 2020 -0300
+
+    configurando as rotas da aplicação
+
+[33mcommit 15c30c33871462a68347028e33836680dd926c72[m
+Author: unknown <mvieirinhaa@gmail.com>
+Date:   Tue Mar 31 16:39:18 2020 -0300
+
+    configurando modelo de usuario e de produtos
+
+[33mcommit a981e98a843eb85087d8f752ad1485c31963cd4d[m
+Author: unknown <mvieirinhaa@gmail.com>
+Date:   Tue Mar 31 16:38:06 2020 -0300
+
+    configurando servidor
+
+[33mcommit 3d3d6d708ef31aab2389b715f6ab53fd28bcf750[m
+Author: unknown <mvieirinhaa@gmail.com>
+Date:   Mon Mar 23 01:07:58 2020 -0300
+
+    criando servidor
+
+[33mcommit b24e5712548d116cad514aea1e2330bca36ff268[m
+Author: unknown <mvieirinhaa@gmail.com>
+Date:   Tue Mar 3 02:04:44 2020 -0300
+
+    git commit -m "criando conexão com o mongo e criando modelo de usuarios"
+
+[33mcommit 157b8899602b328d776d0e37ffc49e56af21d9f1[m
+Author: unknown <mvieirinhaa@gmail.com>
+Date:   Tue Mar 3 01:40:51 2020 -0300
+
+    criando servidor da aplicação
+
+[33mcommit fc2da2d5c7585fc611807a460c96535c5ba14672[m
+Author: unknown <mvieirinhaa@gmail.com>
+Date:   Tue Mar 3 01:39:26 2020 -0300
+
+    commit -m "alterando a ordem do codigo pra funcionamento"
+
+[33mcommit f4f542751e67924abbc5b1f08fb2889950344141[m
+Author: unknown <mvieirinhaa@gmail.com>
+Date:   Tue Mar 3 01:31:47 2020 -0300
+
+    commit -m iniciando servidor da aplicação
+
+[33mcommit ddeeee3a28799e616878d462feac9e05edff2742[m
+Merge: c090594 da8dcf0
+Author: Matheus V. B <57693776+MVIEIRAB@users.noreply.github.com>
+Date:   Tue Feb 18 21:47:37 2020 -0300
+
+    Merge pull request #1 from luizvb/patch-1
+    
+    Update readme
+
+[33mcommit da8dcf029304309da8fb25b1f98e9665f6f897b2[m
+Author: Luiz Vieira <55420231+luizvb@users.noreply.github.com>
+Date:   Tue Feb 18 21:46:10 2020 -0300
+
+    Update readme
+    
+    atualiza com o desafio
+
+[33mcommit c090594f3a07c253b9b435b9b605e7e038c06209[m
+Author: unknown <mvieirinhaa@gmail.com>
+Date:   Tue Feb 18 21:42:53 2020 -0300
+
+    inserindo readme
+
+[33mcommit d470c4b2e36ebb4b62808a5c5ad01396af7e2ce3[m
+Author: unknown <mvieirinhaa@gmail.com>
+Date:   Tue Feb 18 21:40:07 2020 -0300
+
+    editei o comentario e inseri um novo
+
+[33mcommit a6bcd052091102d2fb73f409d6e5c44b4ffaa121[m
+Author: unknown <mvieirinhaa@gmail.com>
+Date:   Tue Feb 18 21:37:39 2020 -0300
+
+    commit exemplo
+
+[33mcommit 42f6f2442ce37e17fdc5a632c9ed582932def6df[m
+Author: unknown <mvieirinhaa@gmail.com>
+Date:   Tue Feb 18 21:34:36 2020 -0300
+
+    npm init - criando documentacao do projeto
