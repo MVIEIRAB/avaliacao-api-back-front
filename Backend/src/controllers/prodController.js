@@ -16,7 +16,7 @@ router.post('/create', async (req, res) => {
         return res.send({ sku })
 
     } catch (err) {
-        return res.status(400).send({ erro: 'Fail in Registration' })
+        return res.status(400).send({ error: 'Fail in Registration' })
     }
 })
 
@@ -42,7 +42,7 @@ router.get('/list/:sku', async (req, res) => {
 
 router.put('/change/:sku', async (req, res) => {
     const sku = req.params.sku
-    Product.findOne({sku: sku}, async (err, foundObject) => {
+    Product.findOne({ sku: sku }, async (err, foundObject) => {
         if (err) {
             console.log(err)
             res.status(500).send()
@@ -65,7 +65,7 @@ router.put('/change/:sku', async (req, res) => {
                     } else {
                         res.send(updatedObject)
                     }
-                } )
+                })
             }
         }
     })
